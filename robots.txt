@@ -1,1 +1,2 @@
 A file
+A second line in file
